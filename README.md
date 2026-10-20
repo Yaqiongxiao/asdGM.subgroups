@@ -1,3 +1,5 @@
+**Data Usage Policy**: These data are for verification only. Secondary use requires written permission.
+
 # Neuroanatomical Basis of Language Ability in an ASD Subgroup
 
 This paper is now published in _European Child & Adolescent Psychiatry_: Xiao, Y., Zhang, N., Huang, K. et al. Neuroanatomical basis of language ability in an autism subgroup with moderate language deficits. Eur Child Adolesc Psychiatry (2024). https://doi.org/10.1007/s00787-024-02605-5
